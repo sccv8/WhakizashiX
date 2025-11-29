@@ -1,1 +1,3 @@
-# WhakizashiX
+# WhakizashiX repository 
+
+welcome!
